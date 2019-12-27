@@ -1,0 +1,11 @@
+{
+  "name": "phoenix-backend",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve mock"
+  },
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}
